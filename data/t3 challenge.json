@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "t3 challenge",
+    "author": "grzyb",
+    "creators": [],
+    "verifier": "grzyb",
+    "verification": "https://youtu.be/nqs0Ka5s7sU",
+    "percentToQualify": "100",
+    "password": "niema",
+    "records": [
+        {
+            "user": "test",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
