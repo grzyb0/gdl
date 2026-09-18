@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Grzyb",
+        "link": "https://grzyb0.github.io/gdl/#/"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Grzyb",
+        "link": "https://grzyb0.github.io/gdl/#/"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Grzyb",
+        "link": "https://grzyb0.github.io/gdl/#/"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Grzyb",
+        "link": "https://grzyb0.github.io/gdl/#/"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Grzyb",
+        "link": "https://grzyb0.github.io/gdl/#/"
     }
 ]
