@@ -109,7 +109,7 @@ export default {
                         W nagraniu przejscia poziomu najlepiej jak by była kamerka na klawiature/myszke by było można widzieć klikanie
                     </p>
                     <p>
-                        Dzwięk klikania musi być słyszalny
+                        Dzwięk klikania musi być słyszalny (Ewentualnie mod click sound)
                     </p>
                     <p>
                         Przejscie poziomu przez bug w poziomie lub sekretną drogą jest zakazane
