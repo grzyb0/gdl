@@ -1,0 +1,18 @@
+{
+    "id": 149043291,
+    "name": "Wave Challenge",
+    "author": "Grzyb",
+    "creators": ["Grzyb"],
+    "verifier": "Grzyb",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "nie ma",
+    "records": [
+        {
+            "user": "Grzyb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
